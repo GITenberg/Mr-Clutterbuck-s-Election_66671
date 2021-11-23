@@ -1,11 +1,16 @@
 _repo: Mr-Clutterbuck-s-Election_66671
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66671-h/images/cover.jpg
 creator:
   author:
     agent_name: Belloc, H.
     gutenberg_agent_id: '53908'
     url: http://www.gutenberg.org/2009/agents/53908
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66671#Mr-Clutterbuck-s-Election
 gutenberg_issued: '2021-11-05'
 identifiers:
   gutenberg: '66671'
